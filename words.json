@@ -1,0 +1,58 @@
+{
+  "words": [
+    {
+      "id": "chicken",
+      "english": "Chicken",
+      "japanese": "鶏",
+      "reading": "にわとり",
+      "romaji": "Niwatori",
+      "image": "images/chicken.jpg",
+      "audio": "audio/chicken.m4a",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "salmon",
+      "english": "Salmon",
+      "japanese": "鮭",
+      "reading": "さけ",
+      "romaji": "Sake",
+      "note": "On sushi menus: サーモン (sāmon)",
+      "image": "images/salmon.jpg",
+      "audio": "audio/salmon-2.m4a",
+      "tags": [
+        "fish",
+        "food"
+      ]
+    },
+    {
+      "id": "no-beef",
+      "english": "No beef",
+      "japanese": "牛肉なし",
+      "reading": "ぎゅうにくなし",
+      "romaji": "Gyūniku nashi",
+      "note": "Full sentence: 牛肉は食べられません (I can't eat beef)",
+      "image": "images/no-beef.jpg",
+      "audio": "audio/no_beef_audio.m4a",
+      "tags": [
+        "food",
+        "dietary"
+      ]
+    },
+    {
+      "id": "no-pork",
+      "english": "No pork",
+      "japanese": "豚肉は食べません",
+      "reading": "ぶたにくはたべません",
+      "romaji": "Butaniku wa tabemasen",
+      "note": "Ramen tip: とんこつ (tonkotsu) broth is pork",
+      "image": "images/no-pork.jpg",
+      "audio": "audio/no_pork_audio.m4a",
+      "tags": [
+        "food",
+        "dietary"
+      ]
+    }
+  ]
+}
